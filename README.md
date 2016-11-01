@@ -222,5 +222,5 @@ This project is released under the MIT license. See [LICENSE](LICENSE) for detai
 [travis-url]: https://travis-ci.org/Zewo/TurnstileMiddleware
 [codecov-badge]: https://codecov.io/gh/Zewo/TurnstileMiddleware/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/Zewo/TurnstileMiddleware
-[codebeat-badge]: https://codebeat.co/badges/df113480-6e62-43e0-8c9d-4571c4307e19
+[codebeat-badge]: https://codebeat.co/badges/95be315c-e5ff-4c5a-bf9d-959fc305cc0c
 [codebeat-url]: https://codebeat.co/projects/github-com-zewo-turnstilemiddleware
